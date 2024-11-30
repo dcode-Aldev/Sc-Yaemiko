@@ -16,18 +16,6 @@ Bot chat WhatsApp adalah program kecerdasan buatan AI (artificial intelligence) 
 <a href="http://wa.me/6289531639634"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp"></a>
 <a href="http://www.instagram.com/al_dev_1"><img src="https://img.shields.io/badge/Instagram-30302f?style=flat&logo=instagram"></a></details>
 
-### Key Script 
- ```
- - Log in : 
-     Username : Free
-     Password : Free123
- - Qiuz :
-     Kamu, kamu, Aku, aku, Saya, saya
- - Password :
-      Ayaka, Doni, Alpian
- - Acc Ip :
-      Hub Owner
-```
 ### Fitur Bot Yaemiko
 - ✔️ | ANONYMOUS
 - ✔️ | DOWNLOADE
