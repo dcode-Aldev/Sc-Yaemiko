@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://github.com/dcode-Aldev"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=Welcome+to+Sc+Yaemiko+MD;+Bot+WhatsApp+By+Al+Dev;Thank's+to;Allah+Swt,+Orang+tua;Indra,+Kemi,+Ziyo,+Balz,+Lutfi;+Joestar,+BochilGaming;Good+Luck+Sc+Yaemiko" alt="Typing SVG" /></a>
+<a href="https://github.com/dcode-Aldev"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=Welcome+to+Sc+Yaemiko+MD;+Bot+WhatsApp+By+Al+Dev;Thank's+to;Allah+Swt,+Orang+tua;Indra,+Kemi,+Ziyo,+Balz,+Lutfi;+Joestar,+BochilGaming,+Shin;Good+Luck+Sc+Yaemiko" alt="Typing SVG" /></a>
 </div>
 
 -----
